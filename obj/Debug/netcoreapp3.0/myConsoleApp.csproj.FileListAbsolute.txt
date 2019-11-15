@@ -1,0 +1,11 @@
+/Users/jonno/Development/Git/myConsoleApp/bin/Debug/netcoreapp3.0/myConsoleApp
+/Users/jonno/Development/Git/myConsoleApp/bin/Debug/netcoreapp3.0/myConsoleApp.deps.json
+/Users/jonno/Development/Git/myConsoleApp/bin/Debug/netcoreapp3.0/myConsoleApp.runtimeconfig.json
+/Users/jonno/Development/Git/myConsoleApp/bin/Debug/netcoreapp3.0/myConsoleApp.runtimeconfig.dev.json
+/Users/jonno/Development/Git/myConsoleApp/bin/Debug/netcoreapp3.0/myConsoleApp.dll
+/Users/jonno/Development/Git/myConsoleApp/bin/Debug/netcoreapp3.0/myConsoleApp.pdb
+/Users/jonno/Development/Git/myConsoleApp/obj/Debug/netcoreapp3.0/myConsoleApp.csprojAssemblyReference.cache
+/Users/jonno/Development/Git/myConsoleApp/obj/Debug/netcoreapp3.0/myConsoleApp.AssemblyInfoInputs.cache
+/Users/jonno/Development/Git/myConsoleApp/obj/Debug/netcoreapp3.0/myConsoleApp.AssemblyInfo.cs
+/Users/jonno/Development/Git/myConsoleApp/obj/Debug/netcoreapp3.0/myConsoleApp.dll
+/Users/jonno/Development/Git/myConsoleApp/obj/Debug/netcoreapp3.0/myConsoleApp.pdb

@@ -1,0 +1,11 @@
+/Users/jonno/Development/Git/myConsoleApp/bin/Debug/netcoreapp3.0/PigLatinConverter
+/Users/jonno/Development/Git/myConsoleApp/bin/Debug/netcoreapp3.0/PigLatinConverter.deps.json
+/Users/jonno/Development/Git/myConsoleApp/bin/Debug/netcoreapp3.0/PigLatinConverter.runtimeconfig.json
+/Users/jonno/Development/Git/myConsoleApp/bin/Debug/netcoreapp3.0/PigLatinConverter.runtimeconfig.dev.json
+/Users/jonno/Development/Git/myConsoleApp/bin/Debug/netcoreapp3.0/PigLatinConverter.dll
+/Users/jonno/Development/Git/myConsoleApp/bin/Debug/netcoreapp3.0/PigLatinConverter.pdb
+/Users/jonno/Development/Git/myConsoleApp/obj/Debug/netcoreapp3.0/PigLatinConverter.csprojAssemblyReference.cache
+/Users/jonno/Development/Git/myConsoleApp/obj/Debug/netcoreapp3.0/PigLatinConverter.AssemblyInfoInputs.cache
+/Users/jonno/Development/Git/myConsoleApp/obj/Debug/netcoreapp3.0/PigLatinConverter.AssemblyInfo.cs
+/Users/jonno/Development/Git/myConsoleApp/obj/Debug/netcoreapp3.0/PigLatinConverter.dll
+/Users/jonno/Development/Git/myConsoleApp/obj/Debug/netcoreapp3.0/PigLatinConverter.pdb
