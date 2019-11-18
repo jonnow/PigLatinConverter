@@ -1,1 +1,2 @@
-# PigLatinConverter
+# Pig Latin Converter
+A DotNet Core version of a piece of work from my university days. The original brief was to create an Android/Java app that would take an entered name and convert it to Pig Latin. I never quite got my head around how to do it at the time so thought I'd see if I could work it out now (I did!).
